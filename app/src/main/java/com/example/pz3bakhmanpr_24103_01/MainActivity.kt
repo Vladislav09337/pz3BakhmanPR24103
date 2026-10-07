@@ -1,5 +1,5 @@
 package com.example.pz3bakhmanpr_24103_01
-
+// testing some things
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
