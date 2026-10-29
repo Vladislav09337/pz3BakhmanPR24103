@@ -7,7 +7,7 @@ class Fef {
     fun firstVoid() {
         // первый метод
     }
-
+    // debug main
     fun secondVoid() {
         // второй метод
     }
